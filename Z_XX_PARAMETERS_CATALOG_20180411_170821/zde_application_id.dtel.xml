@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_APPLICATION_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZDO_APPLICATION_ID</DOMNAME>
+    <MEMORYID>ZXXPID_APP</MEMORYID>
+    <HEADLEN>06</HEADLEN>
+    <SCRLEN1>06</SCRLEN1>
+    <SCRLEN2>06</SCRLEN2>
+    <SCRLEN3>14</SCRLEN3>
+    <DDTEXT>Application ID</DDTEXT>
+    <REPTEXT>App ID</REPTEXT>
+    <SCRTEXT_S>App ID</SCRTEXT_S>
+    <SCRTEXT_M>App ID</SCRTEXT_M>
+    <SCRTEXT_L>Application ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <SHLPNAME>ZXX_SH_PARAM_APP</SHLPNAME>
+    <SHLPFIELD>APP_ID</SHLPFIELD>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <TPARA>
+    <PARAMID>ZXXPID_APP</PARAMID>
+    <PARTEXT>Parameter Application</PARTEXT>
+   </TPARA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

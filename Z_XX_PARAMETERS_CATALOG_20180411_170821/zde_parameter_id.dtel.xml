@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_PARAMETER_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZDO_PARAMETER_ID</DOMNAME>
+    <MEMORYID>ZXXPID_PARAM</MEMORYID>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Parameter ID</DDTEXT>
+    <REPTEXT>Parameter ID</REPTEXT>
+    <SCRTEXT_S>Param ID</SCRTEXT_S>
+    <SCRTEXT_M>Parameter ID</SCRTEXT_M>
+    <SCRTEXT_L>Parameter ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <SHLPNAME>ZXX_SH_PARAM_NAME</SHLPNAME>
+    <SHLPFIELD>PARAM_ID</SHLPFIELD>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <TPARA>
+    <PARAMID>ZXXPID_PARAM</PARAMID>
+    <PARTEXT>Parameter Names</PARTEXT>
+   </TPARA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
